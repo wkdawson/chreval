@@ -14,7 +14,7 @@ make_heatmap.py
 
 my_generation.py
 
-heatmaps.py (contributed progam by Michal Kadlof and/or Przemek Szalaj
+heatmaps.py (contributed progam by Michal Kadlof and Przemek Szalaj)
 
 _Chreval_ is the main driver for calculating the free energy of
 observed heatmaps.  Chreval is a dynamic programming method for
