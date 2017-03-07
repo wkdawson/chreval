@@ -3,7 +3,8 @@
 # README #
 
 ----
-This has been moved to 4dnucleome/looper
+This has been moved to https://github.com/wkdawson/looper
+
 
 
 ----
