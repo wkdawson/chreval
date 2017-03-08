@@ -5,10 +5,12 @@
 program for predicting chromatin structure based on free energy evaluation  
 
 ----
-This package has been moved to [4dnucleome/looper](https://github.com/wkdawson/looper)
-
+This package has been moved to [4dnucleome/looper](https://github.com/4dnucleome/looper)
 ----
-To consult about bugs and other issues of the code, please contact 
+### other information ### 
+
+To consult about bugs in the [_Chreval_](https://github.com/4dnucleome/looper) package 
+-- issues of the code, bugs, etc. -- please contact 
 
 Wayne Dawson  
 Laboratory of Functional and Structural Genomeics  
