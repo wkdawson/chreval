@@ -1,4 +1,4 @@
-# chreval #
+# chreval (CHRomatin EVALuation) #
 
 ### Purpose ###
 
